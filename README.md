@@ -7,7 +7,7 @@ This project provides a comprehensive analysis of customer reordering behavior u
 ## Run Instructions
 
 1. **Download the Dataset**  
-   Obtain the dataset from [Kaggle's Instacart Market Basket Analysis competition](https://www.kaggle.com/c/instacart-market-basket-analysis).
+   Obtain the dataset from [Kaggle's Instacart Market Basket Analysis competition](https://www.kaggle.com/c/instacart-market-basket-analysis). The datasets are not included as they are too large.
 
 2. **Extract the Dataset**  
    After downloading, extract the dataset into a folder on your system.
@@ -39,8 +39,8 @@ This project provides a comprehensive analysis of customer reordering behavior u
    ├── sample_submission.csv
 
      
-  5. **Run the Notebook:**
-     Open the Jupyter Notebook file (market_analysis_final.ipynb) and execute all the cells using the menu option Cell > Run All.
+5. **Run the Notebook:**
+   Open the Jupyter Notebook file (market_analysis_final.ipynb) and execute all the cells using the menu option Cell > Run All.
 
-  6. **View Notebook Outputs on GitHub:**
-     Alternatively, you can view the executed notebook directly in this repository. Click on the file market_analysis_final.ipynb to see the outputs displayed in the GitHub interface.
+6. **View Notebook Outputs on GitHub:**
+   Alternatively, you can view the executed notebook directly in this repository. Click on the file market_analysis_final.ipynb to see the outputs displayed in the GitHub interface.
