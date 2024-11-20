@@ -6,3 +6,4 @@ Run instructions:
   1. Download the Jupyter Notebook File from this GitHub repo.
   2. Open the Jupyter Notebook (market_analysis_final.ipynb)
   3. Run the Notebook (Use the menu option Cell > Run All to execute all the cells in the notebook.)
+  4. Alternatively, you can view the notebook file on this GitHub repo (market_analysis_final.ipynb). By clicking on the file, you will be able to see the executed outputs directly within the interface.
