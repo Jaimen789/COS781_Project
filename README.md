@@ -39,8 +39,8 @@ This project provides a comprehensive analysis of customer reordering behavior u
    ├── sample_submission.csv
 
      
-  5. **Run the Notebook**
+  5. **Run the Notebook:**
      Open the Jupyter Notebook file (market_analysis_final.ipynb) and execute all the cells using the menu option Cell > Run All.
 
-  6. **View Notebook Outputs on GitHub**
+  6. **View Notebook Outputs on GitHub:**
      Alternatively, you can view the executed notebook directly in this repository. Click on the file market_analysis_final.ipynb to see the outputs displayed in the GitHub interface.
