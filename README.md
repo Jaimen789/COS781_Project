@@ -24,17 +24,17 @@ Run instructions:
 
      Your folder structure should look like this:
       Folder (Newly created folder)
-      ├── market_analysis_final.ipynb
-      ├── aisle.csv
-      ├── department.csv
-      ├── order_products__prior.csv
-      ├── order_products__train.csv
-      ├── orders.csv
-      ├── products.csv
-      ├── sample_submission.csv
-
-  5. Run the Notebook:
+          -market_analysis_final.ipynb
+          -aisle.csv
+          -department.csv
+          -order_products__prior.csv
+          -order_products__train.csv
+          -orders.csv
+          -products.csv
+          -sample_submission.csv
+     
+  6. Run the Notebook:
      - Open the Jupyter Notebook file (market_analysis_final.ipynb) and execute all the cells using the menu option Cell > Run All.
 
-  6. View Notebook Outputs on GitHub:
+  7. View Notebook Outputs on GitHub:
      - Alternatively, you can view the executed notebook directly in this repository. Click on the file market_analysis_final.ipynb to see the outputs displayed in the GitHub interface.
