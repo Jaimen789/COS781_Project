@@ -3,5 +3,6 @@ A comprehensive analysis of customer reordering behavior using the Instacart Mar
 
 
 Run instructions:
-  1. Launch Jupyter Notebook (market_analysis_final.ipynb)
-  2. Run the Notebook (Use the menu option Cell > Run All to execute all the cells in the notebook.)
+  1. Download the Jupyter Notebook File from this GitHub repo.
+  2. Open the Jupyter Notebook (market_analysis_final.ipynb)
+  3. Run the Notebook (Use the menu option Cell > Run All to execute all the cells in the notebook.)
